@@ -10,7 +10,7 @@ python3 chooseFile.py
 Then click "open" and chose your file.
 
 
-# Inkscape paramters
+# Inkscape parameters
 
 to get a 1:1 from inkscape you will need to export the file as a "HPGL" and use "2500" as the DPI resolution.
 
