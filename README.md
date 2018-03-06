@@ -12,7 +12,7 @@ Then click "open" and chose your file.
 
 # Inkscape parameters
 
-to get a 1:1 from inkscape you will need to export the file as a "HPGL" and use "2500" as the DPI resolution.
+to get a 1:1 from inkscape you will need to export the file as a "HPGL" and use "2500" as the DPI resolution. set weight / pressure to 50 (grams). speed to 800.
 
 **image comes out 90 rotated**
 
